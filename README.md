@@ -6,4 +6,7 @@ U-Net is a fully convolutional network(FCN) that does image segmentation. Its go
 - Blog Post: https://idiotdeveloper.com/unet-segmentation-in-tensorflow/
 
 ## Architecture
-<img src="images/u-net-architecture.png">
+| [U-Net Architecture](images/u-net-architecture.png) |
+| :--: |
+| *U-Net Architecture* |
+
